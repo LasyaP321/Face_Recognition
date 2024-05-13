@@ -1,0 +1,16 @@
+body
+{
+    background: aquamarine;
+    color: hotpink;
+}
+.heading
+{
+    background: cornsilk;
+    color: cornflowerblue;
+}
+#camera
+{
+    border: 2px dashed darkblue;
+    width: 300px;
+    height: 300px;
+}
